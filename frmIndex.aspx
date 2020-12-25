@@ -13,6 +13,7 @@
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <asp:Label ID="Label1" runat="server" Text="Enter Your Name : "></asp:Label>
+         <asp:Label ID="Label1" runat="server" Text="Enter Your Date of Birth : "></asp:Label>
     </div>
     </form>
 </body>
