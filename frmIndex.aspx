@@ -12,8 +12,12 @@
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <asp:Label ID="Label1" runat="server" Text="Enter Your Name : "></asp:Label>
+<<<<<<< HEAD
         <br />
         Iam Mohamed Yasir
+=======
+         <asp:Label ID="Label1" runat="server" Text="Enter Your Date of Birth : "></asp:Label>
+>>>>>>> 3b2fc97287bc47aa8bf1321e0e780fab59bc2188
     </div>
     </form>
 </body>

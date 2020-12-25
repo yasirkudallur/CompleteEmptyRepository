@@ -12,6 +12,7 @@ public partial class frmIndex : System.Web.UI.Page
         if (!IsPostBack)
         {
             var Name = "Mohamed Yasir";
+            var Name = "Mohamed Yasir";
         }
     }
 }
